@@ -114,7 +114,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Shashanka Venkataramanan, Bill Psomas, Ewa Kijak, Laurent Amsaleg, Konstantinos Karantzalos, Yannis Avrithis.*
 
-* **[ProGCL]()** ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning. ICML 2022. [[code](https://github.com/junxia97/ProGCL)] 
+* **[ProGCL](https://arxiv.org/abs/2110.02027)** ProGCL: Rethinking Hard Negative Mining in Graph Contrastive Learning. ICML 2022. [[code](https://github.com/junxia97/ProGCL)] 
 
     *Jun Xia, Lirong Wu, Ge Wang, Jintao Chen, Stan Z.Li.*
 
