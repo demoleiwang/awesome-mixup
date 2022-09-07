@@ -110,3 +110,19 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Jun Xia, Lirong Wu, Ge Wang, Jintao Chen, Stan Z.Li.*
 
+
+### Semi-supervised Learning with Mixup
+
+* **[ICT](https://arxiv.org/abs/1903.03825)** Interpolation Consistency Training for Semi-Supervised Learning. IJCAI 2019. [[code](https://github.com/vikasverma1077/ICT)] 
+
+    *Vikas Verma, Kenji Kawaguchi, Alex Lamb, Juho Kannala, Yoshua Bengio, David Lopez-Paz*
+
+* **[MixMatch](https://arxiv.org/abs/1905.02249)** MixMatch: A Holistic Approach to Semi-Supervised Learning. NeurIPS 2019. [[code](https://github.com/google-research/mixmatch)] 
+
+    *David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel.*
+    
+* **[]()** x. x. [[code](x)] 
+
+    *x*
+    
+
