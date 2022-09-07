@@ -40,17 +40,25 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *x*
 
+* **[NFM]()** Noisy Feature Mixup. ICLR 2022. [[code](https://github.com/erichson/NFM)] 
+
+    *Soon Hoe Lim, N. Benjamin Erichson, Francisco Utrera, Winnie Xu, Michael W. Mahoney*
+
+* **[CsaNMT](https://arxiv.org/pdf/2204.06812.pdf)** Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation. ACL 2022. [[code](https://github.com/pemywei/csanmt)] 
+
+    *Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Weihua Luo, Jun Xie, Rong Jin.*
+
 * **[]()** x. x. [[code](x)] 
 
     *x*
+    
+    
+### Relabeling
 
-* **[]()** x. x. [[code](x)] 
+* **[GenLabel](https://proceedings.mlr.press/v162/sohn22a/sohn22a.pdf)** GenLabel: Mixup Relabeling using Generative Models. ICML 2022. [[code](https://github.com/UW-Madison-Lee-Lab/GenLabel_official)] 
 
-    *x*
-
-* **[]()** x. x. [[code](x)] 
-
-    *x*
+    *Jy-yong Sohn, Liang Shang, Hongxu Chen, Jaekyun Moon, Dimitris Papailiopoulos, Kangwook Lee.*
+    
 
 
 ### Semantic-Enriched Policies
