@@ -5,20 +5,20 @@ This repo is a collection of AWESOME things about mixup, including papers, code,
 
 ![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-x-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-<!-- * **[mixup]** x. x. [[paper](x)] [[code](x)] 
+<!-- * **[]()** x. x. [[code](x)] 
 
     *x* -->
 
 ### Basics
 This section contains the exploration on the improvements aspects of raw mixup.
 
-* **[mixup](https://arxiv.org/abs/1710.09412)** mixup: Beyond Empirical Risk Minimization. ICLR 2018. [[paper]] [[code](https://github.com/facebookresearch/mixup-cifar10)] 
+* **[mixup](https://arxiv.org/abs/1710.09412)** mixup: Beyond Empirical Risk Minimization. ICLR 2018. [[code](https://github.com/facebookresearch/mixup-cifar10)] 
 
     *Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz.*
 
-<!-- * **[Manifold Mixup]** x. x. [[paper](x)] [[code](x)] 
+* **[Manifold Mixup](https://arxiv.org/abs/1806.05236)** Manifold Mixup: Better Representations by Interpolating Hidden States. x. [[code]([x](https://github.com/vikasverma1077/manifold_mixup))] 
 
-    *x* -->
+    *Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio*
 
 ### Semantic-Enriched Policies
 
