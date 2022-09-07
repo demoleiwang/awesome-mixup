@@ -12,7 +12,7 @@ This repo is a collection of AWESOME things about mixup, including papers, code,
 ### Basics
 This section contains the exploration on the improvements aspects of raw mixup.
 
-* **[mixup.](https://arxiv.org/abs/1710.09412)** mixup: Beyond Empirical Risk Minimization. ICLR 2018. [[code](https://github.com/facebookresearch/mixup-cifar10)]. Citation:4000+.
+* **[mixup.](https://arxiv.org/abs/1710.09412)** mixup: Beyond Empirical Risk Minimization. ICLR 2018. [[code](https://github.com/facebookresearch/mixup-cifar10)].
 
     *Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz.*
 
@@ -24,9 +24,9 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Hongyu Guo, Yongyi Mao, Richong Zhang.*
 
-* **[CutMix](ICCV'2019)** x. x. [[code](https://github.com/clovaai/CutMix-PyTorch)] 
+* **[CutMix](ICCV'2019)** CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. ICCV 2019. [[code](https://github.com/clovaai/CutMix-PyTorch)] 
 
-    *x*
+    *Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo.*
 
 * **[]()** x. x. [[code](x)] 
 
