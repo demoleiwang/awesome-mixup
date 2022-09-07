@@ -21,12 +21,16 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio*
     <details>
     <summary>Summary</summary>
-   Deep neural networks excel at learning the training data, but often provide incorrect and confident predictions when evaluated on slightly different test examples. This includes distribution shifts, outliers, and adversarial examples. To address these issues, we propose Manifold Mixup, a simple regularizer that encourages neural networks to predict less confidently on interpolations of hidden representations.
+    Deep neural networks excel at learning the training data, but often provide incorrect and confident predictions when evaluated on slightly different test examples. This includes distribution shifts, outliers, and adversarial examples. To address these issues, we propose Manifold Mixup, a simple regularizer that encourages neural networks to predict less confidently on interpolations of hidden representations.
     </details>
     
 * **[AdaMixup](https://arxiv.org/abs/1809.02499)** MixUp as Locally Linear Out-Of-Manifold Regularization. AAAI 2019. 
 
     *Hongyu Guo, Yongyi Mao, Richong Zhang.*
+    <details>
+    <summary>Summary</summary>
+    The power of MixUp, however, is primarily established empirically and its working and effectiveness have not been explained in any depth. In this paper, we develop an understanding for MixUp as a form of “out-of-manifold regularization”, which imposes certain “local linearity” constraints on the model’s input space beyond the data manifold.
+    </details>
 
 * **[CutMix](ICCV'2019)** CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. ICCV 2019. [[code](https://github.com/clovaai/CutMix-PyTorch)] 
 
