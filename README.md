@@ -32,7 +32,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
     The power of MixUp, however, is primarily established empirically and its working and effectiveness have not been explained in any depth. In this paper, we develop an understanding for MixUp as a form of “out-of-manifold regularization”, which imposes certain “local linearity” constraints on the model’s input space beyond the data manifold.
     </details>
 
-* **[CutMix](ICCV'2019)** CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. ICCV 2019. [[code](https://github.com/clovaai/CutMix-PyTorch)] 
+* **[CutMix](https://arxiv.org/abs/1905.04899)** CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. ICCV 2019. [[code](https://github.com/clovaai/CutMix-PyTorch)] 
 
     *Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo.*
 
@@ -55,7 +55,21 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
 ### Semantic-Enriched Policies
 
+* **[SaliencyMix](https://arxiv.org/abs/2006.01791)** SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization. ICLR 2021. [[code](x)] 
 
+    *A F M Shahab Uddin and Mst. Sirazam Monira and Wheemyung Shin and TaeChoong Chung and Sung-Ho Bae.*
+
+* **[]()** x. x. [[code](x)] 
+
+    *x*
+
+* **[]()** x. x. [[code](x)] 
+
+    *x*
+
+* **[]()** x. x. [[code](x)] 
+
+    *x*
 
 ### Contrastive Learning with Mixup
 
