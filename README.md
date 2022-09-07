@@ -16,7 +16,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin, David Lopez-Paz.*
 
-* **[Manifold Mixup.](https://arxiv.org/abs/1806.05236)** Manifold Mixup: Better Representations by Interpolating Hidden States. ICML 2019. [[code]([x](https://github.com/vikasverma1077/manifold_mixup))] 
+* **[Manifold Mixup.](https://arxiv.org/abs/1806.05236)** Manifold Mixup: Better Representations by Interpolating Hidden States. ICML 2019. [[code](https://github.com/vikasverma1077/manifold_mixup)] 
 
     *Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio*
 
