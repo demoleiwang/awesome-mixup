@@ -20,7 +20,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio*
     
-* **[AdaMixup](https://arxiv.org/abs/1809.02499)** x. AAAI 2019. 
+* **[AdaMixup](https://arxiv.org/abs/1809.02499)** MixUp as Locally Linear Out-Of-Manifold Regularization. AAAI 2019. 
 
     *Hongyu Guo, Yongyi Mao, Richong Zhang.*
 
