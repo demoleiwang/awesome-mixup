@@ -40,7 +40,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *x*
 
-* **[NFM]()** Noisy Feature Mixup. ICLR 2022. [[code](https://github.com/erichson/NFM)] 
+* **[NFM](https://arxiv.org/pdf/2110.02180.pdf)** Noisy Feature Mixup. ICLR 2022. [[code](https://github.com/erichson/NFM)] 
 
     *Soon Hoe Lim, N. Benjamin Erichson, Francisco Utrera, Winnie Xu, Michael W. Mahoney*
 
