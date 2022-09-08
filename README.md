@@ -35,16 +35,24 @@ This section contains the exploration on the improvements aspects of raw mixup.
 * **[CutMix'19](https://arxiv.org/abs/1905.04899)** CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. ICCV 2019. [[code](https://github.com/clovaai/CutMix-PyTorch)] 
 
     *Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo.*
-      
+
+
+* **[AugMix'20](https://arxiv.org/abs/1912.02781)** AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty. ICLR 2020. [[code](https://github.com/google-research/augmix)] 
+
+    *Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan.*      
+    
+* **[PuzzleMix'20](https://arxiv.org/abs/2009.06962)** Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup. ICML 2020. [[code](https://github.com/snu-mllab/PuzzleMix)] 
+
+    *Jang-Hyun Kim, Wonho Choo, Hyun Oh Song.*
 
 * **[SaliencyMix'21](https://arxiv.org/abs/2006.01791)** SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization. ICLR 2021. [[code](x)] 
 
     *A F M Shahab Uddin and Mst. Sirazam Monira and Wheemyung Shin and TaeChoong Chung and Sung-Ho Bae.*
 
+* **[CoMixup'21](https://arxiv.org/abs/2102.03065)** Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity. ICLR 2021. [[code](https://github.com/snu-mllab/Co-Mixup)] 
 
-* **[]()** x. x. [[code](x)] 
+    *Jang-Hyun Kim, Wonho Choo, Hosan Jeong, Hyun Oh Song.*
 
-    *x*
 
 * **[NFM'22](https://arxiv.org/pdf/2110.02180.pdf)** Noisy Feature Mixup. ICLR 2022. [[code](https://github.com/erichson/NFM)] 
 
@@ -58,7 +66,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Shashanka Venkataramanan, Ewa Kijak, Laurent Amsaleg, Yannis Avrithis.*
     
-* **[TransMix](https://arxiv.org/abs/2111.09833)** TransMix: Attend to Mix for Vision Transformers. CVPR 2022. [[code](https://github.com/Beckschen/TransMix)] 
+* **[TransMix'22](https://arxiv.org/abs/2111.09833)** TransMix: Attend to Mix for Vision Transformers. CVPR 2022. [[code](https://github.com/Beckschen/TransMix)] 
 
     *Jie-Neng Chen, Shuyang Sun, Ju He, Philip Torr, Alan Yuille, Song Bai.*
 
@@ -66,7 +74,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Jy-yong Sohn, Liang Shang, Hongxu Chen, Jaekyun Moon, Dimitris Papailiopoulos, Kangwook Lee.*
 
-* **[VLMixer](https://arxiv.org/pdf/2206.08919.pdf)** VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix. ICML 2022. [[code](x)] 
+* **[VLMixer'22](https://arxiv.org/pdf/2206.08919.pdf)** VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix. ICML 2022. [[code](x)] 
 
     *Teng Wang, Wenhao Jiang, Zhichao Lu, Feng Zheng, Ran Cheng, Chengguo Yin, Ping Luo*
 
@@ -74,13 +82,8 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Zicheng Liu, Siyuan Li, Di Wu, Zihan Liu, Zhiyuan Chen, Lirong Wu, Stan Z. Li.*
 
-* **[]()** x. x. [[code](x)] 
 
-    *x*
 
-* **[]()** x. x. [[code](x)] 
-
-    *x*
 
 
 ### Contrastive Learning with Mixup
