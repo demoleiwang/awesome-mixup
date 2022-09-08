@@ -58,14 +58,18 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Shashanka Venkataramanan, Ewa Kijak, Laurent Amsaleg, Yannis Avrithis.*
     
-* **[]()** x. x. [[code](x)] 
+* **[TransMix](https://arxiv.org/abs/2111.09833)** TransMix: Attend to Mix for Vision Transformers. CVPR 2022. [[code](https://github.com/Beckschen/TransMix)] 
 
-    *x*
+    *Jie-Neng Chen, Shuyang Sun, Ju He, Philip Torr, Alan Yuille, Song Bai.*
 
 * **[GenLabel'22](https://proceedings.mlr.press/v162/sohn22a/sohn22a.pdf)** GenLabel: Mixup Relabeling using Generative Models. ICML 2022. [[code](https://github.com/UW-Madison-Lee-Lab/GenLabel_official)] 
 
     *Jy-yong Sohn, Liang Shang, Hongxu Chen, Jaekyun Moon, Dimitris Papailiopoulos, Kangwook Lee.*
-    
+
+* **[VLMixer](https://arxiv.org/pdf/2206.08919.pdf)** VLMixer: Unpaired Vision-Language Pre-training via Cross-Modal CutMix. ICML 2022. [[code](x)] 
+
+    *Teng Wang, Wenhao Jiang, Zhichao Lu, Feng Zheng, Ran Cheng, Chengguo Yin, Ping Luo*
+
 * **[AutoMix'22](https://arxiv.org/abs/2103.13027)** AutoMix: Unveiling the Power of Mixup for Stronger Classifiers. ECCV 2022. [[code](https://github.com/Westlake-AI/openmixup)]
 
     *Zicheng Liu, Siyuan Li, Di Wu, Zihan Liu, Zhiyuan Chen, Lirong Wu, Stan Z. Li.*
@@ -73,6 +77,11 @@ This section contains the exploration on the improvements aspects of raw mixup.
 * **[]()** x. x. [[code](x)] 
 
     *x*
+
+* **[]()** x. x. [[code](x)] 
+
+    *x*
+
 
 ### Contrastive Learning with Mixup
 
