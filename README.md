@@ -35,6 +35,12 @@ This section contains the exploration on the improvements aspects of raw mixup.
 * **[CutMix](https://arxiv.org/abs/1905.04899)** CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features. ICCV 2019. [[code](https://github.com/clovaai/CutMix-PyTorch)] 
 
     *Sangdoo Yun, Dongyoon Han, Seong Joon Oh, Sanghyuk Chun, Junsuk Choe, Youngjoon Yoo.*
+      
+
+* **[SaliencyMix](https://arxiv.org/abs/2006.01791)** SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization. ICLR 2021. [[code](x)] 
+
+    *A F M Shahab Uddin and Mst. Sirazam Monira and Wheemyung Shin and TaeChoong Chung and Sung-Ho Bae.*
+
 
 * **[]()** x. x. [[code](x)] 
 
@@ -52,32 +58,13 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *x*
     
-    
-### Relabeling
+
 
 * **[GenLabel](https://proceedings.mlr.press/v162/sohn22a/sohn22a.pdf)** GenLabel: Mixup Relabeling using Generative Models. ICML 2022. [[code](https://github.com/UW-Madison-Lee-Lab/GenLabel_official)] 
 
     *Jy-yong Sohn, Liang Shang, Hongxu Chen, Jaekyun Moon, Dimitris Papailiopoulos, Kangwook Lee.*
     
 
-
-### Semantic-Enriched Policies
-
-* **[SaliencyMix](https://arxiv.org/abs/2006.01791)** SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization. ICLR 2021. [[code](x)] 
-
-    *A F M Shahab Uddin and Mst. Sirazam Monira and Wheemyung Shin and TaeChoong Chung and Sung-Ho Bae.*
-
-* **[]()** x. x. [[code](x)] 
-
-    *x*
-
-* **[]()** x. x. [[code](x)] 
-
-    *x*
-
-* **[]()** x. x. [[code](x)] 
-
-    *x*
 
 ### Contrastive Learning with Mixup
 
