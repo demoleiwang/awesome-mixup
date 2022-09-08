@@ -2,6 +2,8 @@
 
 This repo is a collection of AWESOME things about mixup, including papers, code, etc. Feel free to star and fork. We borrow a lot from [openmixup](https://github.com/Westlake-AI/openmixup), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation), and [PromptPapers](https://github.com/thunlp/PromptPapers).
 
+Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary](https://docs.google.com/spreadsheets/d/1U34MoCHibDFy7GRU78ZKmgourSDZrFngc4QN_fIvgfSchek/edit#gid=0)
+
 
 ![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-50-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
