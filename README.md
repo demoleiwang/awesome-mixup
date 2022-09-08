@@ -54,17 +54,25 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Weihua Luo, Jun Xie, Rong Jin.*
 
+* **[AlignMix'22](https://arxiv.org/abs/2103.15375)** AlignMix: Improving representation by interpolating aligned features. CVPR 2022. [[code](https://github.com/shashankvkt/AlignMixup_CVPR22)] 
+
+    *Shashanka Venkataramanan, Ewa Kijak, Laurent Amsaleg, Yannis Avrithis.*
+    
 * **[]()** x. x. [[code](x)] 
 
     *x*
-    
-
 
 * **[GenLabel](https://proceedings.mlr.press/v162/sohn22a/sohn22a.pdf)** GenLabel: Mixup Relabeling using Generative Models. ICML 2022. [[code](https://github.com/UW-Madison-Lee-Lab/GenLabel_official)] 
 
     *Jy-yong Sohn, Liang Shang, Hongxu Chen, Jaekyun Moon, Dimitris Papailiopoulos, Kangwook Lee.*
     
+* **[AutoMix'22]([https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550630.pdf](https://arxiv.org/abs/2103.13027))** AutoMix: Unveiling the Power of Mixup for Stronger Classifiers. ECCV 2022. [[code](https://github.com/Westlake-AI/openmixup)]
 
+    *Zicheng Liu, Siyuan Li, Di Wu, Zihan Liu, Zhiyuan Chen, Lirong Wu, Stan Z. Li.*
+
+* **[]()** x. x. [[code](x)] 
+
+    *x*
 
 ### Contrastive Learning with Mixup
 
