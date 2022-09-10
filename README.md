@@ -79,6 +79,10 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *Zicheng Liu, Siyuan Li, Di Wu, Zihan Liu, Zhiyuan Chen, Lirong Wu, Stan Z. Li.*
 
 
+* **[TokenMix'22](https://arxiv.org/abs/2207.08409)** TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers. ECCV 2022. [[code](https://github.com/Sense-X/TokenMix)]
+
+    *Jihao Liu, Boxiao Liu, Hang Zhou, Hongsheng Li, Yu Liu*
+
 
 
 
