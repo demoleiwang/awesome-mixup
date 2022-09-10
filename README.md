@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about mixup, including papers, code,
 Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary](https://docs.google.com/spreadsheets/d/1U34nbDFy7GRU78ZKmgourSDZrFngc4QN_fIvgfSchek/edit?usp=sharing)
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-50-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-32-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 * **[]()** x. x. [[code](x)] 
@@ -14,7 +14,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 -->
 
-### Basics
+### Basics (16)
 This section contains the exploration on the improvements aspects of raw mixup.
 
 * **[mixup'18](https://arxiv.org/abs/1710.09412)** mixup: Beyond Empirical Risk Minimization. ICLR 2018. [[code](https://github.com/facebookresearch/mixup-cifar10)].
@@ -89,7 +89,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
 
 
-### Contrastive Learning with Mixup
+### Contrastive Learning with Mixup (9)
 
 * **[MixCo'20](https://arxiv.org/abs/2010.06300)** MixCo: Mix-up Contrastive Learning for Visual Representation. NeurIPSW. [[code](https://github.com/Lee-Gihun/MixCo-Mixup-Contrast)] 
 
@@ -129,7 +129,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *Jun Xia, Lirong Wu, Ge Wang, Jintao Chen, Stan Z.Li.*
 
 
-### Semi-supervised Learning with Mixup
+### Semi-supervised Learning with Mixup (2)
 
 * **[ICT'19](https://arxiv.org/abs/1903.03825)** Interpolation Consistency Training for Semi-Supervised Learning. IJCAI 2019. [[code](https://github.com/vikasverma1077/ICT)] 
 
@@ -140,7 +140,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel.*
     
     
-### Mixup in NLP
+### Mixup in NLP (5)
 
 * **[HYPMIX'21](https://aclanthology.org/2021.emnlp-main.776.pdf)** HYPMIX: Hyperbolic Interpolative Data Augmentation. EMNLP 2021. [[code](https://github.com/caisa-lab/hypmix-emnlp)] 
 
