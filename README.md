@@ -7,9 +7,12 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 ![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-50-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-<!-- * **[]()** x. x. [[code](x)] 
+<!-- 
+* **[]()** x. x. [[code](x)] 
 
-    *x* -->
+    *x* 
+
+-->
 
 ### Basics
 This section contains the exploration on the improvements aspects of raw mixup.
@@ -137,4 +140,17 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel.*
     
     
+### Mixup in NLP
+
+* **[]()** x. x. [[code](x)] 
+
+    *x* 
+
+* **[]()** x. x. [[code](x)] 
+
+    *x* 
+
+* **[]()** x. x. [[code](x)] 
+
+    *x* 
 
