@@ -142,15 +142,15 @@ This section contains the exploration on the improvements aspects of raw mixup.
     
 ### Mixup in NLP
 
-* **[HYPMIX](https://aclanthology.org/2021.emnlp-main.776.pdf)** HYPMIX: Hyperbolic Interpolative Data Augmentation. EMNLP 2021. [[code](https://github.com/caisa-lab/hypmix-emnlp)] 
+* **[HYPMIX'21](https://aclanthology.org/2021.emnlp-main.776.pdf)** HYPMIX: Hyperbolic Interpolative Data Augmentation. EMNLP 2021. [[code](https://github.com/caisa-lab/hypmix-emnlp)] 
 
     *Ramit Sawhney, Megh Thakkar, Shivam Agarwal, Di Jin, Diyi Yang, Lucie Flek* 
 
-* **[]()** x. x. [[code](x)] 
+* **[Multilingual Mix'22](https://aclanthology.org/2022.acl-long.282.pdf)** Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation. ACL 2022. 
 
-    *x* 
+    *Yong Cheng, Ankur Bapna, Orhan Firat, Yuan Cao, Pidong Wang, and Wolfgang Macherey* 
 
-* **[]()** x. x. [[code](x)] 
+* **[DMix'22](https://aclanthology.org/2022.acl-short.67/)** DMIX: Adaptive Distance-aware Interpolative Mixup. ACL 2022. (SHORT) 
 
-    *x* 
+    *Ramit Sawhney, Megh Thakkar, Shrey Pandit, Ritesh Soun, Di Jin, Diyi Yang, Lucie Flek* 
 
