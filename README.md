@@ -142,9 +142,9 @@ This section contains the exploration on the improvements aspects of raw mixup.
     
 ### Mixup in NLP
 
-* **[]()** x. x. [[code](x)] 
+* **[HYPMIX](https://aclanthology.org/2021.emnlp-main.776.pdf)** HYPMIX: Hyperbolic Interpolative Data Augmentation. EMNLP 2021. [[code](https://github.com/caisa-lab/hypmix-emnlp)] 
 
-    *x* 
+    *Ramit Sawhney, Megh Thakkar, Shivam Agarwal, Di Jin, Diyi Yang, Lucie Flek* 
 
 * **[]()** x. x. [[code](x)] 
 
