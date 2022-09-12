@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about mixup, including papers, code,
 Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary](https://docs.google.com/spreadsheets/d/1U34nbDFy7GRU78ZKmgourSDZrFngc4QN_fIvgfSchek/edit?usp=sharing)
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-33-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-34-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 * **[[]]()** x. x. [[code](x)] 
@@ -94,7 +94,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
 
 
-### Contrastive Learning with Mixup (9)
+### Contrastive Learning with Mixup (10)
 
 * **[[MixCo'20]](https://arxiv.org/abs/2010.06300)** MixCo: Mix-up Contrastive Learning for Visual Representation. NeurIPSW. [[code](https://github.com/Lee-Gihun/MixCo-Mixup-Contrast)] 
 
