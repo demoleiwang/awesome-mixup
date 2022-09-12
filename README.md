@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about mixup, including papers, code,
 Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary](https://docs.google.com/spreadsheets/d/1U34nbDFy7GRU78ZKmgourSDZrFngc4QN_fIvgfSchek/edit?usp=sharing)
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-32-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-33-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 * **[[]]()** x. x. [[code](x)] 
@@ -14,7 +14,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 -->
 
-### Basics (16)
+### Basics (17)
 This section contains the exploration on the improvements aspects of raw mixup.
 
 * **[[mixup'18]](https://arxiv.org/abs/1710.09412)** mixup: Beyond Empirical Risk Minimization. ICLR 2018. [[code](https://github.com/facebookresearch/mixup-cifar10)].
@@ -39,6 +39,11 @@ This section contains the exploration on the improvements aspects of raw mixup.
 * **[[AugMix'20]](https://arxiv.org/abs/1912.02781)** AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty. ICLR 2020. [[code](https://github.com/google-research/augmix)] 
 
     *Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan.*      
+    
+
+* **[[SnapMix'21]](https://arxiv.org/pdf/2012.04846)** SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data. AAAI 2021. [[code](https://github.com/Shaoli-Huang/SnapMix.git)] 
+
+    *Shaoli Huang, Xinchao Wang, Dacheng Tao.* 
     
 * **[[PuzzleMix'20]](https://arxiv.org/abs/2009.06962)** Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup. ICML 2020. [[code](https://github.com/snu-mllab/PuzzleMix)] 
 
