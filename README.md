@@ -134,6 +134,12 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *Jun Xia, Lirong Wu, Ge Wang, Jintao Chen, Stan Z.Li.*
 
 
+* **[[M-Mix'22]]()** M-Mix: Generating Hard Negatives via Multi-sample Mixing forContrastive Learning. KDD 2022. [[code](https://github.com/Sherrylone/m-mix)] 
+
+    *Shaofeng Zhang, Meng Liu, Junchi Yan, Hengrui Zhang, Lingxiao Huang, Pinyan Lu, Xiaokang Yang.* 
+
+
+
 ### Semi-supervised Learning with Mixup (2)
 
 * **[[ICT'19]](https://arxiv.org/abs/1903.03825)** Interpolation Consistency Training for Semi-Supervised Learning. IJCAI 2019. [[code](https://github.com/vikasverma1077/ICT)] 
