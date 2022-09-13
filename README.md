@@ -151,7 +151,15 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel.*
     
     
-### Mixup in NLP (5)
+### Mixup in NLP (7)
+
+* **[[SL'20]](https://aclanthology.org/2020.emnlp-main.447.pdf)** Sequence-Level Mixed Sample Data Augmentation. EMNLP 2020.
+
+   *Demi Guo, Yoon Kim, Alexander Rush.*
+   
+ * **[[BRMC'21]](https://aclanthology.org/2021.findings-acl.137.pdf)** Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning. ACL 2021.
+ 
+   *Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun.*
 
 * **[[HYPMIX'21]](https://aclanthology.org/2021.emnlp-main.776.pdf)** HYPMIX: Hyperbolic Interpolative Data Augmentation. EMNLP 2021. [[code](https://github.com/caisa-lab/hypmix-emnlp)] 
 
