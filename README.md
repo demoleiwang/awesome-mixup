@@ -151,7 +151,12 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel.*
     
     
-### Mixup in NLP (7)
+### Mixup in NLP (8)
+
+* **[[TMix'20]](https://aclanthology.org/2020.acl-main.194.pdf)** MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification. ACL 2020. [[code]](https://github.com/SALT-NLP/MixText)
+
+   *Jiaao Chen, Zichao Yang, and Diyi Yang.*
+
 
 * **[[SL'20]](https://aclanthology.org/2020.emnlp-main.447.pdf)** Sequence-Level Mixed Sample Data Augmentation. EMNLP 2020.
 
