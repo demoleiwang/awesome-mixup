@@ -134,7 +134,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *Jun Xia, Lirong Wu, Ge Wang, Jintao Chen, Stan Z.Li.*
 
 
-* **[[M-Mix'22]]()** M-Mix: Generating Hard Negatives via Multi-sample Mixing forContrastive Learning. KDD 2022. [[code](https://github.com/Sherrylone/m-mix)] 
+* **[[M-Mix'22]]()** M-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning. KDD 2022. [[code](https://github.com/Sherrylone/m-mix)] 
 
     *Shaofeng Zhang, Meng Liu, Junchi Yan, Hengrui Zhang, Lingxiao Huang, Pinyan Lu, Xiaokang Yang.* 
 
