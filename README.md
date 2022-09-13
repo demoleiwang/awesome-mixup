@@ -177,6 +177,6 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Qingkai Fang, Rong Ye, Lei Li, Yang Feng, Mingxuan Wang.* 
 
-* **[[AUMS'22]](https://aclanthology.org/2022.acl-long.368.pdf)** On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency x. ACL 2022. [[code](https://github.com/shreydesai/calibration)] 
+* **[[AUMS'22]](https://aclanthology.org/2022.acl-long.368.pdf)** On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency. ACL 2022. [[code](https://github.com/shreydesai/calibration)] 
 
     *Seo Yeon Park and Cornelia Caragea.* 
