@@ -190,3 +190,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Soonki Kwon , Younghoon Lee.* 
 
+
+* **[[TreeMix'22]]()** TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding. NAACL 2022. [[code](https://github.com/magiccircuit/treemix)] 
+
+    *Le Zhang, Zichao Yang, Diyi Yang.* 
