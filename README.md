@@ -162,7 +162,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
    *Demi Guo, Yoon Kim, Alexander Rush.*
    
- 1. **[[BRMC'21]](https://aclanthology.org/2021.findings-acl.137.pdf)** Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning. ACL 2021.
+1. **[[BRMC'21]](https://aclanthology.org/2021.findings-acl.137.pdf)** Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning. ACL 2021.
  
    *Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun.*
 
