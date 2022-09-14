@@ -197,3 +197,10 @@ This section contains the exploration on the improvements aspects of raw mixup.
 1. **[[TreeMix'22]](https://aclanthology.org/2022.naacl-main.385.pdf)** TreeMix: Compositional Constituency-based Data Augmentation for Natural Language Understanding. NAACL 2022. [[code](https://github.com/magiccircuit/treemix)] 
 
     *Le Zhang, Zichao Yang, Diyi Yang.* 
+
+
+### Other Application
+
+1. **[[SMFM'22]](https://arxiv.org/pdf/2206.08661.pdf)** Boosting Factorization Machines via Saliency-Guided Mixup. 2022. [[code](https://github.com/Daftstone/SMFM)] 
+
+    *Chenwang Wu, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao.* 
