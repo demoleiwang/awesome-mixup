@@ -14,7 +14,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 -->
 
-### Basics (17)
+### Basics
 This section contains the exploration on the improvements aspects of raw mixup.
 
 1. **[[mixup'18]](https://arxiv.org/abs/1710.09412)** mixup: Beyond Empirical Risk Minimization. ICLR 2018. [[code](https://github.com/facebookresearch/mixup-cifar10)].
@@ -62,10 +62,6 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Soon Hoe Lim, N. Benjamin Erichson, Francisco Utrera, Winnie Xu, Michael W. Mahoney*
 
-1. **[[CsaNMT'22]](https://arxiv.org/pdf/2204.06812.pdf)** Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation. ACL 2022. [[code](https://github.com/pemywei/csanmt)] 
-
-    *Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Weihua Luo, Jun Xie, Rong Jin.*
-
 1. **[[AlignMix'22]](https://arxiv.org/abs/2103.15375)** AlignMix: Improving representation by interpolating aligned features. CVPR 2022. [[code](https://github.com/shashankvkt/AlignMixup_CVPR22)] 
 
     *Shashanka Venkataramanan, Ewa Kijak, Laurent Amsaleg, Yannis Avrithis.*
@@ -94,7 +90,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
 
 
-### Contrastive Learning with Mixup (10)
+### Contrastive Learning with Mixup
 
 1. **[[MixCo'20]](https://arxiv.org/abs/2010.06300)** MixCo: Mix-up Contrastive Learning for Visual Representation. NeurIPSW. [[code](https://github.com/Lee-Gihun/MixCo-Mixup-Contrast)] 
 
@@ -140,7 +136,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
 
 
-### Semi-supervised Learning with Mixup (2)
+### Semi-supervised Learning with Mixup
 
 1. **[[ICT'19]](https://arxiv.org/abs/1903.03825)** Interpolation Consistency Training for Semi-Supervised Learning. IJCAI 2019. [[code](https://github.com/vikasverma1077/ICT)] 
 
@@ -151,7 +147,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel.*
     
     
-### Mixup in NLP (10)
+### Mixup in NLP
 
 1. **[[TMix'20]](https://aclanthology.org/2020.acl-main.194.pdf)** MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification. ACL 2020. [[code]](https://github.com/SALT-NLP/MixText)
 
@@ -181,6 +177,10 @@ This section contains the exploration on the improvements aspects of raw mixup.
 1. **[[STEMM'22]](https://aclanthology.org/2022.acl-long.486.pdf)** STEMM: Self-learning with Speech-text Manifold Mixup for Speech Translation. ACL 2022. [[code](https://github.com/ictnlp/STEMM)] 
 
     *Qingkai Fang, Rong Ye, Lei Li, Yang Feng, Mingxuan Wang.* 
+    
+1. **[[CsaNMT'22]](https://arxiv.org/pdf/2204.06812.pdf)** Learning to Generalize to More: Continuous Semantic Augmentation for Neural Machine Translation. ACL 2022. [[code](https://github.com/pemywei/csanmt)] 
+
+    *Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Weihua Luo, Jun Xie, Rong Jin.*
 
 1. **[[AUMS'22]](https://aclanthology.org/2022.acl-long.368.pdf)** On the Calibration of Pre-trained Language Models using Mixup Guided by Area Under the Margin and Saliency. ACL 2022. [[code](https://github.com/shreydesai/calibration)] 
 
