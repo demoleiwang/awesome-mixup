@@ -153,6 +153,9 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
    *Jiaao Chen, Zichao Yang, and Diyi Yang.*
 
+1. **[[AdvAug'20]](https://arxiv.org/pdf/2006.11834)** AdvAug: Robust Adversarial Augmentation for Neural Machine Translation. ACL 2020. 
+
+    *Yong Cheng, Lu Jiang, Wolfgang Macherey, Jacob Eisenstein.* 
 
 1. **[[SL'20]](https://aclanthology.org/2020.emnlp-main.447.pdf)** Sequence-Level Mixed Sample Data Augmentation. EMNLP 2020.
 
