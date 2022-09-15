@@ -85,7 +85,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Jihao Liu, Boxiao Liu, Hang Zhou, Hongsheng Li, Yu Liu*
 
-1. **[[WH-Mixup'22]](https://proceedings.mlr.press/v162/zhang22f.html)** When and How Mixup Improves Calibration. ICML. 
+1. **[[WH-Mixup'22]](https://proceedings.mlr.press/v162/zhang22f.html)** When and How Mixup Improves Calibration. ICML 2022. 
 
    *Linjun Zhang, Zhun Deng, Kenji Kawaguchi, James Zou.* 
 
