@@ -25,7 +25,6 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Vikas Verma, Alex Lamb, Christopher Beckham, Amir Najafi, Ioannis Mitliagkas, David Lopez-Paz, Yoshua Bengio*
 
-    
 1. **[[AdaMixup'19]](https://arxiv.org/abs/1809.02499)** MixUp as Locally Linear Out-Of-Manifold Regularization. AAAI 2019. 
 
     *Hongyu Guo, Yongyi Mao, Richong Zhang.*
@@ -40,7 +39,6 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Dan Hendrycks, Norman Mu, Ekin D. Cubuk, Barret Zoph, Justin Gilmer, Balaji Lakshminarayanan.*      
     
-
 1. **[[SnapMix'21]](https://arxiv.org/pdf/2012.04846)** SnapMix: Semantically Proportional Mixing for Augmenting Fine-grained Data. AAAI 2021. [[code](https://github.com/Shaoli-Huang/SnapMix.git)] 
 
     *Shaoli Huang, Xinchao Wang, Dacheng Tao.* 
@@ -87,6 +85,10 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Jihao Liu, Boxiao Liu, Hang Zhou, Hongsheng Li, Yu Liu*
 
+1. **[[WH-Mixup'22]](https://proceedings.mlr.press/v162/zhang22f.html)** When and How Mixup Improves Calibration. ICML. 
+
+   *Linjun Zhang, Zhun Deng, Kenji Kawaguchi, James Zou.* 
+
 
 
 
@@ -119,7 +121,6 @@ This section contains the exploration on the improvements aspects of raw mixup.
 1. **[[Un-Mix'22]](https://arxiv.org/abs/2003.05438)** Un-Mix: Rethinking Image Mixtures for Unsupervised Visual Representation. AAAI 2022. [[code](https://github.com/szq0214/Un-Mix)] 
 
     *Zhiqiang Shen, Zechun Liu, Zhuang Liu, Marios Savvides, Trevor Darrell, Eric Xing.*
-    
     
 1. **[[Metrix'22]](https://www.semanticscholar.org/reader/a7721bf626f4996117dbb88b385be2e12462e7e6)** It Takes Two to Tango: Mixup for Deep Metric Learning. ICLR 2022. [[code](https://github.com/billpsomas/Metrix_ICLR22)] 
 
@@ -162,7 +163,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
    *Demi Guo, Yoon Kim, Alexander Rush.*
    
 1. **[[BRMC'21]](https://aclanthology.org/2021.findings-acl.137.pdf)** Better Robustness by More Coverage: Adversarial and Mixup Data Augmentation for Robust Finetuning. ACL 2021.
- 
+
    *Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun.*
 
 1. **[[HYPMIX'21]](https://aclanthology.org/2021.emnlp-main.776.pdf)** HYPMIX: Hyperbolic Interpolative Data Augmentation. EMNLP 2021. [[code](https://github.com/caisa-lab/hypmix-emnlp)] 
