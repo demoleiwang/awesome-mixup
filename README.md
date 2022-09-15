@@ -5,7 +5,7 @@ This repo is a collection of AWESOME things about mixup, including papers, code,
 Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary(Restricted)](https://docs.google.com/spreadsheets/d/1U34nbDFy7GRU78ZKmgourSDZrFngc4QN_fIvgfSchek/edit?usp=sharing)
 
 
-![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-42-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-43-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- 
 1. **[[]]()** x. x. [[code](x)] 
@@ -205,3 +205,8 @@ This section contains the exploration on the improvements aspects of raw mixup.
 1. **[[SMFM'22]](https://arxiv.org/pdf/2206.08661.pdf)** Boosting Factorization Machines via Saliency-Guided Mixup. 2022. [[code](https://github.com/Daftstone/SMFM)] 
 
     *Chenwang Wu, Defu Lian, Yong Ge, Min Zhou, Enhong Chen, Dacheng Tao.* 
+
+
+1. **[[MIX-TS]](https://www.sciencedirect.com/science/article/pii/S0167865522000502)** Mixing Up Contrastive Learning: Self-Supervised Representation Learning for Time Series. PRL 2022. [[code](https://github.com/Wickstrom/MixupContrastiveLearning)] 
+
+    *Kristoffer Wickstrøm, Michael Kampffmeyer, Karl Øyvind Mikalsen, Robert Jenssen.* 
