@@ -161,10 +161,13 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Hongyu Guo, Yongyi Mao, Richong Zhang.* 
 
-
 1. **[[TMix'20]](https://aclanthology.org/2020.acl-main.194.pdf)** MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification. ACL 2020. [[code]](https://github.com/SALT-NLP/MixText)
 
    *Jiaao Chen, Zichao Yang, and Diyi Yang.*
+
+1. **[[Mixup-Transformer'20]](https://arxiv.org/pdf/2010.02394.pdf)** Mixup-Transformer: Dynamic Data Augmentation for NLP Tasks. COLING 2020. 
+
+    *Lichao Sun, Congying Xia, Wenpeng Yin, Tingting Liang, Philip S. Yu, Lifang He.* 
 
 1. **[[AdvAug'20]](https://arxiv.org/pdf/2006.11834)** AdvAug: Robust Adversarial Augmentation for Neural Machine Translation. ACL 2020. 
 
@@ -181,6 +184,10 @@ This section contains the exploration on the improvements aspects of raw mixup.
 1. **[[HYPMIX'21]](https://aclanthology.org/2021.emnlp-main.776.pdf)** HYPMIX: Hyperbolic Interpolative Data Augmentation. EMNLP 2021. [[code](https://github.com/caisa-lab/hypmix-emnlp)] 
 
     *Ramit Sawhney, Megh Thakkar, Shivam Agarwal, Di Jin, Diyi Yang, Lucie Flek* 
+
+1. **[[SSMix'21]](https://arxiv.org/pdf/2106.08062.pdf)** SSMix: Saliency-Based Span Mixup for Text Classification. ACL Findings 2021. [[code](https://github.com/clovaai/ssmix)] 
+
+    *Soyoung Yoon, Gyuwan Kim, Kyumin Park* 
 
 1. **[[Multilingual Mix'22]](https://aclanthology.org/2022.acl-long.282.pdf)** Multilingual Mix: Example Interpolation Improves Multilingual Neural Machine Translation. ACL 2022. 
 
