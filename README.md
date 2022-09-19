@@ -157,6 +157,11 @@ This section contains the exploration on the improvements aspects of raw mixup.
     
 ### Mixup in NLP
 
+1. **[[mixup-text'19]](https://arxiv.org/pdf/1905.08941)** Augmenting Data with Mixup for Sentence Classification: An Empirical Study. arXiv 2019. [[code](https://github.com/xashru/mixup-text/blob/master/README.md)] 
+
+    *Hongyu Guo, Yongyi Mao, Richong Zhang.* 
+
+
 1. **[[TMix'20]](https://aclanthology.org/2020.acl-main.194.pdf)** MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification. ACL 2020. [[code]](https://github.com/SALT-NLP/MixText)
 
    *Jiaao Chen, Zichao Yang, and Diyi Yang.*
