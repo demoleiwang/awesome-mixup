@@ -97,6 +97,22 @@ This section contains the exploration on the improvements aspects of raw mixup.
    *Linjun Zhang, Zhun Deng, Kenji Kawaguchi, James Zou.* 
 
 
+1. **[[RegMixup'22]](https://arxiv.org/pdf/2206.14502)** RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness. NeurIPS 2022. [[code](https://github.com/FrancescoPinto/RegMixup)] 
+
+    *Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip H.S. Torr, Puneet K. Dokania.* 
+
+1. **[[RecursiveMix'22]](https://arxiv.org/pdf/2203.06844)** RecursiveMix: Mixed Learning with History. NeurIPS 2022.  [[code](https://github.com/megvii-research/RecursiveMix)] 
+
+    *Lingfeng Yang, Xiang Li, Borui Zhao, Renjie Song, Jian Yang.* 
+
+1. **[[RandomMix'22]](https://arxiv.org/pdf/2205.08728)** RandomMix: A mixed sample data augmentation method with multiple mixed modes. NeurIPS 2022. [[code](x)] 
+
+    *Xiaoliang Liu, Furao Shen, Jian Zhao, Changhai Nie.* 
+
+1. **[[GMIX'22]](https://arxiv.org/pdf/2208.09913)** A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective. NeurIPS 2022. [[code](https://github.com/naver-ai/hmix-gmix)] 
+
+    *Chanwoo Park, Sangdoo Yun, Sanghyuk Chun.* 
+
 
 
 ### Contrastive Learning with Mixup
@@ -141,22 +157,6 @@ This section contains the exploration on the improvements aspects of raw mixup.
 1. **[[M-Mix'22]]()** M-Mix: Generating Hard Negatives via Multi-sample Mixing for Contrastive Learning. KDD 2022. [[code](https://github.com/Sherrylone/m-mix)] 
 
     *Shaofeng Zhang, Meng Liu, Junchi Yan, Hengrui Zhang, Lingxiao Huang, Pinyan Lu, Xiaokang Yang.* 
-
-1. **[[RegMixup'22]](https://arxiv.org/pdf/2206.14502)** RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy and Out Distribution Robustness. NeurIPS 2022. [[code](https://github.com/FrancescoPinto/RegMixup)] 
-
-    *Francesco Pinto, Harry Yang, Ser-Nam Lim, Philip H.S. Torr, Puneet K. Dokania.* 
-
-1. **[[RecursiveMix'22]](https://arxiv.org/pdf/2203.06844)** RecursiveMix: Mixed Learning with History. NeurIPS 2022.  [[code](https://github.com/megvii-research/RecursiveMix)] 
-
-    *Lingfeng Yang, Xiang Li, Borui Zhao, Renjie Song, Jian Yang.* 
-
-1. **[[RandomMix'22]](https://arxiv.org/pdf/2205.08728)** RandomMix: A mixed sample data augmentation method with multiple mixed modes. NeurIPS 2022. [[code](x)] 
-
-    *Xiaoliang Liu, Furao Shen, Jian Zhao, Changhai Nie.* 
-
-1. **[[GMIX'22]](https://arxiv.org/pdf/2208.09913)** A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective. NeurIPS 2022. [[code](https://github.com/naver-ai/hmix-gmix)] 
-
-    *Chanwoo Park, Sangdoo Yun, Sanghyuk Chun.* 
 
 
 
