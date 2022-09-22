@@ -1,6 +1,6 @@
 # awesome-mixup
 
-This repo is a collection of AWESOME things about mixup, including papers, code, etc. Feel free to star and fork. We borrow a lot from [openmixup](https://github.com/Westlake-AI/openmixup), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation), and [PromptPapers](https://github.com/thunlp/PromptPapers).
+This repo is a collection of AWESOME things about mixup, including papers, code, etc. Feel free to star and fork. We borrow a lot from [openmixup](https://github.com/Westlake-AI/openmixup), [Awesome-Mixup](https://github.com/Westlake-AI/Awesome-Mixup), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation), and [PromptPapers](https://github.com/thunlp/PromptPapers).
 
 Some of these papers are summarized with tables in Google Sheet. Please find the link here: [Summary(Restricted)](https://docs.google.com/spreadsheets/d/1U34nbDFy7GRU78ZKmgourSDZrFngc4QN_fIvgfSchek/edit?usp=sharing)
 
