@@ -109,7 +109,7 @@ This section contains the exploration on the improvements aspects of raw mixup.
 
     *Xiaoliang Liu, Furao Shen, Jian Zhao, Changhai Nie.* 
 
-1. **[[GMIX'22]](https://arxiv.org/pdf/2208.09913)** A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective. NeurIPS 2022. [[code](https://github.com/naver-ai/hmix-gmix)] 
+1. **[[MSDA'22]](https://arxiv.org/pdf/2208.09913)** A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective. NeurIPS 2022. [[code](https://github.com/naver-ai/hmix-gmix)] 
 
     *Chanwoo Park, Sangdoo Yun, Sanghyuk Chun.* 
 
