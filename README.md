@@ -232,6 +232,12 @@ This section contains the exploration on the improvements aspects of raw mixup.
     *Le Zhang, Zichao Yang, Diyi Yang.* 
 
 
+1. **[[X-Mixup'22]](https://openreview.net/forum?id=OjPmfr9GkVv)** Enhancing Cross-lingual Transfer by Manifold Mixup. ICLR 2022. [[code](https://github.com/yhy1117/X-Mixup)] 
+
+    *Huiyun Yang, Huadong Chen, Hao Zhou, Lei Li.* 
+
+
+
 ### Other Application
 
 1. **[[SMFM'22]](https://arxiv.org/pdf/2206.08661.pdf)** Boosting Factorization Machines via Saliency-Guided Mixup. 2022. [[code](https://github.com/Daftstone/SMFM)] 
