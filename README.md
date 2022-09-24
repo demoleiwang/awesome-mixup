@@ -166,6 +166,11 @@ This section contains the exploration on the improvements aspects of raw mixup.
 1. **[[MixMatch'19]](https://arxiv.org/abs/1905.02249)** MixMatch: A Holistic Approach to Semi-Supervised Learning. NeurIPS 2019. [[code](https://github.com/google-research/mixmatch)] 
 
     *David Berthelot, Nicholas Carlini, Ian Goodfellow, Nicolas Papernot, Avital Oliver, Colin Raffel.*
+
+1. **[[P3MIX'22]](https://openreview.net/pdf?id=NH29920YEmj)** Who Is Your Right Mixup Partner in Positive and Unlabeled Learning. ICLR 2022. [[code](x)] 
+
+    *Changchun Li, Ximing Li, Lei Feng, Jihong Ouyang.* 
+
     
     
 ### Mixup in NLP
