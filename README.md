@@ -6,6 +6,7 @@ Some of these papers are summarized with tables in Google Sheet. Please find the
 
 
 ![](https://img.shields.io/github/last-commit/demoleiwang/awesome-mixup?color=green) ![](https://img.shields.io/badge/PaperNumber-52-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=demoleiwang/awesome-mixup)
 
 <!-- 
 1. **[[]]()** x. x. [[code](x)] 
